@@ -1,6 +1,6 @@
 # Ingress 指南
 
-**正在写作中。**
+{% include "templates/modification_needed.md" %}
 
 ## 作者
 
