@@ -6,7 +6,7 @@
 * [进入游戏之前](before_game/index.md)
    * [下载和安装游戏](before_game/installation.md)
    * [网络](before_game/network.md)
-   * 中国大陆玩家特别说明
+   * [中国大陆玩家特别说明](before_game/chinese.md)
 * 游戏界面
   * 主界面/地图
   * Portal 详情
