@@ -1,6 +1,41 @@
 # Ingress 指南
 
-正在写作中。
+**正在写作中。**
+
+## 阅读本书
+
+https://www.gitbook.com/book/hz-ingress/ingress-tutorial/details
+
+## 自行编译
+
+首先安装 GitBook
+```shell
+$ npm install gitbook-cli -g
+```
+
+然后 Checkout 本书
+```shell
+$ git clone https://github.com/hz-ingress/ingress-tutorial.git
+```
+
+接下来你可以选择其中一种方法来查看本书的内容：
+
+ * 构建静态 HTML
+```shell
+$ gitbook build
+```
+
+ * 直接在浏览器中观看
+```shell
+$ gitbook serve
+```
+
+## 作者
+@Jamesits
+
+## 参考资料
+
+[GhostFlying/ingress-tutorials](https://github.com/GhostFlying/ingress-tutorials)
 
 合作请联系： jamesswineson[#]gmail.com
 
