@@ -1,4 +1,4 @@
-# Summary
+# 目录
 
 * [介绍](intro.md)
 * [序](Preface.md)
@@ -7,9 +7,40 @@
    * [下载和安装游戏](before_game/installation.md)
    * [网络](before_game/network.md)
    * 中国大陆玩家特别说明
-* 基本玩法
-  * Lorem ipsum
-* 术语词典
-  * Lorem ipsum
+* 游戏界面
+  * 主界面/地图
+  * Portal 详情
+    * Hack
+    * Deploy Resonator
+    * Recharge
+    * Deploy Mod
+    * Navigate to portal
+  * OPS 菜单
+    * Inventory
+    * Agent
+    * Intel
+    * Missions
+    * Training
+    * Recruit
+    * Community
+    * Passcode
+    * Device
+  * COMM
+* 术语翻译
 * 道具
-* 线下活动
+  * Capsule
+  * Media
+  * Mod
+    * Portal Shield/AXA Shield
+    * Link Amp
+    * Heat Sink
+    * Multi-hack
+    * Force Amp
+    * Turret
+  * Portal Key
+  * Resonator
+  * Weapon
+    * XMP Burster
+    * Ultra Strike
+    * ADA Refactor/Jarvis Virus
+* 线下活动：XM Anomaly
