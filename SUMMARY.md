@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [introduction](intro/intro.md)
 * [序](Preface.md)
 * 剧情
    * Lorem ipsum

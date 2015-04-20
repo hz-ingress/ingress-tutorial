@@ -3,5 +3,8 @@
     "title": "Ingress 指南",
     "description": "",
     "language": "zh-CN",
+    "structure": {
+        "readme": "intro/intro.md"
+    },
     "plugins": []
 }
