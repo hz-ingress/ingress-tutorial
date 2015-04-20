@@ -17,5 +17,7 @@
 可以从 [App Store](https://itunes.apple.com/us/app/ingress/id576505181?mt=8) 下载 Ingress 客户端。
 
 ### 系统要求
+
  * iOS 7.0 及更高版本
  * 约 50M 可用空间
+ * 未越狱
