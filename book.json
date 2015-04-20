@@ -10,16 +10,20 @@
     "variables": {
         "authors": [
             {
-                "name": "Jamesits"
+                "name": "@Jamesits"
             },
             {
-                "name": "GhostFlying"
+                "name": "@GhostFlying"
             }
         ],
         "references": [
             {
                 "name": "GhostFlying/ingress-tutorials",
                 "url": "https://github.com/GhostFlying/ingress-tutorials"
+            },
+            {
+                "name": "Ingress Field Guide",
+                "url": "https://support.google.com/ingress/answer/3205429?hl=en"
             }
         ]
     }
