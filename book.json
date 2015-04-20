@@ -4,7 +4,7 @@
     "description": "",
     "language": "zh-CN",
     "structure": {
-        "readme": "intro/intro.md"
+        "readme": "intro.md"
     },
     "plugins": []
 }
