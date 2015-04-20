@@ -1,1 +1,7 @@
-{}
+{
+    "gitbook": ">=2.0.0",
+    "title": "Ingress 指南",
+    "description": "",
+    "language": "zh-CN",
+    "plugins": []
+}
