@@ -1,6 +1,6 @@
 # Ingress 指南
 
-{% include "templates/modification_needed.md" %}
+{% include "templates/not_finished_yet.md" %}
 
 ## 作者
 
