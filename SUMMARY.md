@@ -3,10 +3,10 @@
 * [介绍](intro.md)
 * [序](Preface.md)
 * [剧情](plot/index.md)
-* 进入游戏之前
-   * 设备支持情况
-   * 科学上网
-   * 安装游戏
+* [进入游戏之前](before_game/index.md)
+   * [下载和安装游戏](before_game/installation.md)
+   * 网络
+   * 中国大陆玩家特别说明
 * 基本玩法
   * Lorem ipsum
 * 术语词典
