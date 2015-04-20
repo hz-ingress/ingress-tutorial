@@ -15,9 +15,9 @@ https://www.gitbook.com/book/hz-ingress/ingress-tutorial/dashboard
 依赖项：
  * [node.js](https://nodejs.org/)
  * gitbook-cli
-    ```shell
-    $ npm install gitbook-cli -g
-    ```
+```shell
+$ npm install gitbook-cli -g
+```
 
 然后 clone 本书
 ```shell
