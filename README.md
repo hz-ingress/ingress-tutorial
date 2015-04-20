@@ -4,7 +4,7 @@
 
 ## 在线阅读本书
 
-https://www.gitbook.com/book/hz-ingress/ingress-tutorial/details
+http://hz-ingress.gitbooks.io/ingress-tutorial/content/
 
 ## 下载电子书
 
