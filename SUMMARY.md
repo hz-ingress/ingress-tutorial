@@ -28,9 +28,9 @@
   * COMM
   * Ingress Intel Map
 * 术语翻译
-* 道具
-  * Capsule
-  * Media
+* [道具](objects/index.md)
+  * [Capsule](objects/capsule/index.md)
+  * [Media](objects/media/index.md)
   * Mod
     * Portal Shield/AXA Shield
     * Link Amp
@@ -39,9 +39,11 @@
     * Force Amp
     * Turret
   * Portal Key
-  * Resonator
+  * [Resonator](objects/resonator/index.md)
   * Weapon
     * XMP Burster
     * Ultra Strike
     * ADA Refactor/Jarvis Virus
+* Passcode 解密
 * 线下活动：XM Anomaly
+* [周边](accessories/index.md)
