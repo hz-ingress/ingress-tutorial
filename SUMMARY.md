@@ -26,6 +26,7 @@
     * Passcode
     * Device
   * COMM
+  * Ingress Intel Map
 * 术语翻译
 * 道具
   * Capsule
