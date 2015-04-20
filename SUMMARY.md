@@ -2,8 +2,7 @@
 
 * [介绍](intro.md)
 * [序](Preface.md)
-* 剧情
-   * Lorem ipsum
+* [剧情](plot/index.md)
 * 进入游戏之前
    * 设备支持情况
    * 科学上网
