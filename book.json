@@ -6,5 +6,18 @@
     "structure": {
         "readme": "intro.md"
     },
-    "plugins": []
+    "plugins": [],
+
+    "variables": {
+        "authors": [
+            { "name": "Jamesits" },
+            { "name": "GhostFlying" },
+        ],
+        "references": [
+            {
+                "name": "GhostFlying/ingress-tutorials",
+                 "url": "https://github.com/GhostFlying/ingress-tutorials"
+                 }
+        ],
+    },
 }

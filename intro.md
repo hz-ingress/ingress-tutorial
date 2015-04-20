@@ -3,11 +3,15 @@
 **正在写作中。**
 
 ## 作者
-@Jamesits
+{% for author in authors %}
+  - {{ author.name }}
+{% endfor %}
 
 ## 参考资料
 
-[GhostFlying/ingress-tutorials](https://github.com/GhostFlying/ingress-tutorials)
+{% for ref in references %}
+  - [{{ ref.name }}]({{ ref.url }})
+{% endfor %}
 
 合作请联系： jamesswineson[#]gmail.com
 
