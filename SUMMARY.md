@@ -35,7 +35,7 @@
     * Portal Shield/AXA Shield
     * Link Amp
     * Heat Sink
-    * Multi-hack
+    * [Multi-hack](objects/mods/multi-hack.md)
     * Force Amp
     * Turret
   * Portal Key
