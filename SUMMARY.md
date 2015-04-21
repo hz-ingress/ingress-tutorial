@@ -33,7 +33,7 @@
   * [Media](objects/media/index.md)
   * [Mod](objects/mods/index.md)
     * Portal Shield/AXA Shield
-    * Link Amp
+    * [Link Amp](objects/mods/link_amp.md)
     * Heat Sink
     * [Multi-hack](objects/mods/multi-hack.md)
     * Force Amp
