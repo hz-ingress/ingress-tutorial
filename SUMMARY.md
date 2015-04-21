@@ -34,7 +34,7 @@
   * [Mod](objects/mods/index.md)
     * Portal Shield/AXA Shield
     * [Link Amp](objects/mods/link_amp.md)
-    * Heat Sink
+    * [Heat Sink](objects/mods/heat_sink.md)
     * [Multi-hack](objects/mods/multi-hack.md)
     * Force Amp
     * Turret
