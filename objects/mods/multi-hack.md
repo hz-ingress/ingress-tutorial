@@ -23,11 +23,15 @@
 
 Multi-hack 可用于增加 Portal 每 4 小时 Hack 次数的上限，没有任何道具加成的情况下为 4 次（关于 Hack 及具体限制，参见相关条目）。
 
-共有 Common, Rare, Very Rare 3个级别，分别增加 4 次，8 次和 12 次 Hack 次数。通常用于 farm  区域或工 po，床 po 等能稳定长期 hack 的 Portal。
+共有 Common, Rare, Very Rare 3个级别，分别增加 4 次，8 次和 12 次 Hack 次数。
 
 ## 衰减
 
 除效果最强的一个外，其余均减半。
+
+## 习惯用法
+
+ * 在自己经常可以 Hack 的 Portal 上安装
 
 ## 安装消耗
 
