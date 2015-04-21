@@ -11,6 +11,9 @@
  * Android 2.3 及更高版本
  * [Google Play Service](https://play.google.com/store/apps/details?id=com.google.android.gms)
  * 约 50M 可用空间
+ * GPS
+
+注：外部蓝牙 GPS 模块在某些 Android 版本下可用，尚无全面的兼容性测试。
 
 ## iOS
 
@@ -21,3 +24,5 @@
  * iOS 7.0 及更高版本
  * 约 50M 可用空间
  * 未越狱
+
+注：在 Wi-Fi 版 iPad 和 iPod Touch 上，定位可能非常不准确，因此不建议使用这些设备。
