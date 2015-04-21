@@ -31,7 +31,7 @@
 * [道具](objects/index.md)
   * [Capsule](objects/capsule/index.md)
   * [Media](objects/media/index.md)
-  * Mod
+  * [Mod](objects/mods/index.md)
     * Portal Shield/AXA Shield
     * Link Amp
     * Heat Sink
