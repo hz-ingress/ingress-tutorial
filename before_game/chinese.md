@@ -81,7 +81,9 @@ iOS 用户可略过此节
 
 出于反作弊等原因考虑，Android 平台的 Ingress 只接受使用 Google 自己的服务进行 AP 定位。部分国内厂商的 Rom 及国际厂商的国行可能使用了百度的定位服务，极可能导致封号。
 
-如果发现游戏出现相关提示，请务必停止游戏并检查你的定位服务。
+**如果发现游戏出现如下提示（感谢 Fatiao 提供图片），请务必停止游戏并检查你的定位服务。**
+
+![Incorrect Location Service](images/incorrect_location_service.png)
 
 
 
