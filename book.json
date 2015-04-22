@@ -24,6 +24,10 @@
             {
                 "name": "Ingress Field Guide",
                 "url": "https://support.google.com/ingress/answer/3205429?hl=en"
+            },
+            {
+                "name": "DeCode Ingress",
+                "url": "http://decodeingress.me/"
             }
         ]
     }
