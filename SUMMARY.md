@@ -38,7 +38,7 @@
     * [Link Amp](objects/mods/link_amp.md)
     * [Heat Sink](objects/mods/heat_sink.md)
     * [Multi-hack](objects/mods/multi-hack.md)
-    * Force Amp
+    * [Force Amp](objects/mods/force_amp.md)
     * Turret
   * Portal Key
   * [Resonator](objects/resonator/index.md)
