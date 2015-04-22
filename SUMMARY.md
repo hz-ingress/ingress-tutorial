@@ -18,6 +18,8 @@
   * OPS 菜单
     * Inventory
     * Agent
+      * Badges（牌）
+      * 数据
     * Intel
     * Missions
     * Training
