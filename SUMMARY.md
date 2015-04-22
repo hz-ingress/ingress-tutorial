@@ -39,7 +39,7 @@
     * [Heat Sink](objects/mods/heat_sink.md)
     * [Multi-hack](objects/mods/multi-hack.md)
     * [Force Amp](objects/mods/force_amp.md)
-    * Turret
+    * [Turret](objects/mods/turret.md)
   * Portal Key
   * [Resonator](objects/resonator/index.md)
   * Weapon
