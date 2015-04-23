@@ -34,7 +34,7 @@
   * [Capsule](objects/capsule/index.md)
   * [Media](objects/media/index.md)
   * [Mod](objects/mods/index.md)
-    * Portal Shield/AXA Shield
+    * [Portal Shield/AXA Shield](objects/mods/portal_shield.md)
     * [Link Amp](objects/mods/link_amp.md)
     * [Heat Sink](objects/mods/heat_sink.md)
     * [Multi-hack](objects/mods/multi-hack.md)
