@@ -1,10 +1,7 @@
 # 升级 Portal
 
-More powerful Resonators increase the power (and Level) of a Portal. You can upgrade Resonators with more powerful ones using the UPGRADE Portal action:
+更强大的 Resonator 能增强 Portal 的能量（和等级）。你可以用 UPGRADE 动作来升级 Resonator。
 
-Select the Resonator you wish to upgrade from the rotating carousel
-Select Upgrade to replace it with a more powerful (higher Level) one from your inventory
-You can also selectively Recharge Resonators by choosing a certain Resonator and touching Recharge
-
-
-You can also deploy Shields from the Upgrade screen. Shields are obtained from Portals by Hacking, just like Resonators. Shields act as a defensive barrier on Resonators from XMP attacks. There are three levels of Shield, and up to four Shields can be deployed on a Portal. Shields show up as translucent domes over Portals in the Scanner view. Each incremental Shield has less defensive effect.
+1. 在 Resonator 详情页面点击 UPGRADE resonator 按钮
+2. 在八个 Resonator 中选择一个
+3. 选择希望升级到的 Resonator 等级，然后点击 Upgrade 按钮
