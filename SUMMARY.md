@@ -37,7 +37,6 @@
     * 提交反馈
     * 申请修改 Codename 或阵营
     * 删除帐号
-    *
 * 术语翻译
 * [道具](objects/index.md)
   * [Capsule](objects/capsule/index.md)
