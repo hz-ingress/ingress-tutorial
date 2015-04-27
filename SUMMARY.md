@@ -7,9 +7,32 @@
    * [下载和安装游戏](before_game/installation.md)
    * [网络](before_game/network.md)
    * [中国大陆玩家特别说明](before_game/chinese.md)
+* [教程](guide/index.md)
+  * [基础训练](guide/basic_training.md)
+  * Portal 和 Inventory
+    * [寻找 Portal](guide/build_portals_and_inventory/finding_portals.md)
+    * 通过 Hack 获得物品
+    * Glyph（连位符）
+    * 占领 Portal
+    * 升级 Portal
+    * 发现和使用 Passcode
+    * 胶囊
+  * 维护和防御
+  * 提交 Portal
+  * 成就系统
+  * 任务
+  * 与他人合作
+  * 其他问题
+    * 举报玩家
+    * 举报 Portal 或任务
+    * 申请 Portal
+    * 验证手机号
+    * 提交反馈
+    * 申请修改 Codename 或阵营
+    * 删除帐号
 * [游戏界面](interface/index.md)
   * [主界面/地图](interface/main_ui.md)
-  * Portal 详情
+  * [Portal 详情](interface/portal.md)
     * Hack
     * Deploy Resonator
     * Recharge
@@ -29,14 +52,6 @@
     * Device
   * COMM
   * Ingress Intel Map
-  * 其他
-    * 举报玩家
-    * 举报 Portal 或任务
-    * 申请 Portal
-    * 验证手机号
-    * 提交反馈
-    * 申请修改 Codename 或阵营
-    * 删除帐号
 * 术语翻译
 * [道具](objects/index.md)
   * [Capsule](objects/capsule/index.md)
