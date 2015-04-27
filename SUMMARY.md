@@ -13,7 +13,7 @@
     * [寻找 Portal](guide/build_portals_and_inventory/finding_portals.md)
     * [Hack：获得道具的方式](guide/build_portals_and_inventory/acquire_items_via_hacking.md)
     * [Glyph Hack](guide/build_portals_and_inventory/glyph_hacking.md)
-    * 占领 Portal
+    * [占领 Portal](guide/build_portals_and_inventory/capture_a_portal.md)
     * 升级 Portal
     * 发现和使用 Passcode
     * 胶囊
