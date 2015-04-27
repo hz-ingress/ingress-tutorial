@@ -2,28 +2,25 @@
 
 最近，Scaner 设备中发现了能使玩家看到一系列 Shaper Glyph 的代码。研究证明使用 Glyph 可增加 Hack 获得的道具数量，但是长期使用这一方法的结果仍然是未知的。
 
-Quick tips
+## 快速指南
 
-Two paths to unlocking Glyph power: Glyph hacks are either automatic or self-initiated. You can self-initiate Glyph hacking by long pressing the HACK portal button. Occasionally there will be a HIGH BONUS ENABLED Glyph sequence that will start automatically when hacking a Portal, regardless of whether you wanted to Glyph hack or not. If you successfully hack this sequence, your chance of getting bonus items will be higher than usual.
-Forego the challenge: Touch BYPASS during self-initiated Glyph hacks to skip the sequence and initiate a normal hack without any bonuses. Touch ABORT during HIGH BONUS ENABLED Glyph hacks to skip the sequence and receive 0 AP and 0 items.
-Roll of the dice: Completing a Glyph sequence successfully does not guarantee bonus items, it simply increases your chances of getting additional items.
-Be ready for the challenge: The higher the Portal level, the more Glyphs you will need to successfully trace to unlock bonuses. For example, you may only need to trace 2 Glyphs to achieve the maximum hacking bonus for a low level Portal, whereas you will need to trace more Glyphs in order to achieve the same bonus on a higher level Portal.
-Skill and speed: Your overall performance is based on the accuracy and speed in which you complete the sequence.
-Beware of burnout: Glyph hacking is subject to the same cooldown and burnout limitations of normal hacks.
-Be patient, start slowly, and have fun. Glyph hacking, like any skill, requires practice to achieve superior timing and precision.
+释放 Glyph 的能力有有两种方式：自动或者手动。长按 Hack 按钮可以手动触发 Glyph Hack。偶尔在 Hack 时会自动出现高收益的 Glyph（无论你是否长按 Hack），如果你成功完成了这个 Glyph 序列，你将有更高的可能性获得奖励道具。
 
-To Manually Initiate Glyph Hacking:
+注意事项：
+ * **放弃 Glyph Hack**：手动触发的 Glyph Hack 可以通过点击 BYPASS 按钮跳过，转为一次普通的 Hack。自动的 Glyph Hack 可以点击 ABORT 跳过，此时你不会得到任何物品。
+ * **关于可能性**：Glyph Hack 成功并不能保证你得到更多的奖励道具，它只是增加你获得奖励道具的可能性。
+ * **准备接受挑战**：Portal 等级越高，Glyph 的个数也越多。低等级 Portal 也许只需要你画两个 Glyph，而更高等级的 Portal 需要画更多的 Glyph。
+ * **技巧和速度**：你的总体表现由准确度和速度两部分组成。
+ * **注意 Burnout**：Glyph Hack 和普通的 Hack 受到相同的冷却和过热限制。
 
-Long press HACK portal while in the Portal menu to initiate the Shaper Glyph sequence.
+要有耐心，慢慢来，享受这个过程。就像任何技能一样，Glyph Hack 需要练习来达到高速和高准确率。
 
+## 手动触发 Glyph Hack
 
-Watch carefully and memorize the incoming Glyphs sent to your Scanner.
+1. 在 Portal 详情界面长按 Hack 按钮来初始化 Glyph 序列。
+2. 仔细观看，记住 Scanner 收到的 Glyph。
+3. 在倒计时结束之前重新画出你看到的 Glyph，以增加获得奖励道具的可能性。
 
+你获得奖励道具的可能性随着你的速度和准确度增加而增加。
 
-Trace the Glyph sequence before the time runs out to increase your chances of getting a bonus for your Hack.
-
-
-Your chances of getting bonus items increase as you become faster and more accurate with tracing Glyphs.
-
-
-If you get bonus items, they will be shown in your Hack results.
+如果获得了奖励道具，它们会显示在 Hack 结果中。
