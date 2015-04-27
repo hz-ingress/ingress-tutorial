@@ -1,7 +1,5 @@
 # 中国大陆玩家特别说明
 
-{% include "templates/not_finished_yet.md" %}
-
 由于特殊的国情，Ingress 又是个由 Google 开发和维护的游戏，相比国外玩家，国内玩家需要面对一些特有的问题。
 
 ## 翻墙
@@ -56,7 +54,7 @@ ShadowVPN 项目本身仅提供协议和服务器 / 客户端实现，本身并�
 
 #### PPTP/L2TP/IPSec/OpenVPN/AnyConnect
 
-见下文。
+详见下文。
 
 ### iOS
 
