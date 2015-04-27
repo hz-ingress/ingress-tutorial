@@ -34,7 +34,7 @@ $ git clone https://github.com/hz-ingress/ingress-tutorial.git
 ```shell
 $ gitbook build
 ```
-页面将会存放在 \_book 目录中
+    完成后页面将会存放在 \_book 目录中。
 
  * 直接在浏览器中观看
 ```shell
