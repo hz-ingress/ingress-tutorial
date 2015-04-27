@@ -71,6 +71,7 @@
 * Passcode 解密
 * 线下活动
   * XM Anomaly
-  * Ingress First Saturday
+  * Ingress FS
+  * NL-1331
 * [周边](accessories/index.md)
 * [术语表](GLOSSARY.md)
