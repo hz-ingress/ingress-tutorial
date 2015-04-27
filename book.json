@@ -6,7 +6,9 @@
     "structure": {
         "readme": "intro.md"
     },
-    "plugins": [],
+    "plugins": [
+      "gitbook-plugin-unicodecss"
+      ],
     "variables": {
         "authors": [
             {
