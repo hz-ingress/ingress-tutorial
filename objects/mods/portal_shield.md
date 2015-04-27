@@ -10,7 +10,7 @@
 
 | 属性 | 值 |
 |-|-|
-| 掉率 | Common, Rare, Very Rare, AXA |
+| 掉率 | Portal Shield：Common，Rare，Very Rare；AXA Shield：Very Rare |
 | 占用空间 | 1 |
 | 等级 | 无 |
 | 可叠加 | 相同掉率 |
@@ -19,7 +19,7 @@
 
 ## 功能
 
-Portal Shield 和 AXA Shield 能提高 Portal 防御敌方 XMP 攻击的能力。其中 Common, Rare 和 Very Rare 的 Portal Shiled 分别能提高 30，40 和 60 的防御，而 AXA Shield 则能提高 70 的防御。
+Portal Shield 和 AXA Shield 能提高 Portal 防御敌方 XMP 攻击的能力。其中 Common, Rare 和 Very Rare 的 Portal Shield 分别能提高 30，40 和 60 的防御，而 AXA Shield 则能提高 70 的防御。
 
 ## 衰减
 
