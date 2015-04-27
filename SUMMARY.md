@@ -7,8 +7,8 @@
    * [下载和安装游戏](before_game/installation.md)
    * [网络](before_game/network.md)
    * [中国大陆玩家特别说明](before_game/chinese.md)
-* 游戏界面
-  * 主界面/地图
+* [游戏界面](interface/index.md)
+  * [主界面/地图](interface/main_ui.md)
   * Portal 详情
     * Hack
     * Deploy Resonator
