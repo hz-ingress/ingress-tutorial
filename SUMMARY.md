@@ -52,7 +52,6 @@
     * Device
   * COMM
   * Ingress Intel Map
-* 术语翻译
 * [道具](objects/index.md)
   * [Capsule](objects/capsule/index.md)
   * [Media](objects/media/index.md)
@@ -74,3 +73,4 @@
   * XM Anomaly
   * Ingress First Saturday
 * [周边](accessories/index.md)
+* [术语表](GLOSSARY.md)
