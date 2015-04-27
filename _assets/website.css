@@ -9,6 +9,7 @@
 	font-family: Consolas, Menlo, Courier, 'WenQuanYi Micro Hei Mono', monospace;
 }
 */
-.fancybox img {
-    width: 200px;
+
+img {
+    max-width: 300px !important;
 }
