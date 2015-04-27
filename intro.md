@@ -1,4 +1,4 @@
-# Ingress 指南
+# Ingress 中文游戏指南
 
 ## 作者
 
@@ -14,7 +14,7 @@
 
 -------------
 
-合作请联系： jamesswineson[#]gmail.com
+任何问题，建议，合作撰写请求请访问[本书的 Github Repository](https://github.com/hz-ingress/ingress-tutorial) 或联系 jamesswineson[#]gmail.com 。
 
 -------------
 
