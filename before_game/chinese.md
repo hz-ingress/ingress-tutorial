@@ -81,7 +81,7 @@ iOS 由于系统限制，Shadowsocks 并不能在非越狱的设备上稳定工�
 
 仅有的两个能在 iOS 上使用的第三方 VPN 之一，客户端可在 [App Store](https://itunes.apple.com/us/app/cisco-anyconnect/id392790924?mt=8) 下载，支持持续连接，支持下发一定数量的路由表，是目前 iOS 上最稳定的 VPN 协议，但仍有部分网络受干扰的报告。
 
-某些情况下 AnyConnect 完成身份验证以后会被阻断，表现为 VPN 显示开启状态但是全局无法访问网络。查看流量可见 Bytes Received 几乎为 0。这种情况的原因未知，一说为所在区域基站配置错误导致 UDP 包无法被正确转发。可以尝试更换运营商，更换网络模式（2G/3G/4G，可以尝试在身份验证阶段和完成身份验证后使用不同的网络模式）或离开该基站覆盖范围再尝试连接。
+某些情况下 AnyConnect 完成身份验证以后会被阻断，表现为 VPN 显示开启状态但是全局无法访问网络。查看流量可见 Bytes Received 几乎为 0。这种情况的原因未知，一说为所在区域基站配置错误导致 UDP 包无法被正确转发。可以尝试更换运营商，更换网络模式（2G/3G/4G，可以[尝试在身份验证阶段和完成身份验证后使用不同的网络模式](https://www.v2ex.com/t/176263#reply10)）或离开该基站覆盖范围再尝试连接。
 
 ![AnyConnect 被阻断示例图 1](images/anyconnect-interrupted-1.png) ![AnyConnect 被阻断示例图 2](images/anyconnect-interrupted-2.png)
 
