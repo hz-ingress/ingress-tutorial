@@ -7,7 +7,7 @@
         "readme": "intro.md"
     },
     "plugins": [
-      "gitbook-plugin-unicodecss"
+      "unicodecss"
       ],
     "variables": {
         "authors": [
