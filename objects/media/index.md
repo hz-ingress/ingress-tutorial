@@ -1,7 +1,6 @@
 # Media
 
-Media 可用于观看 Youtube 上的官方视频。
-{% include "templates/modification_needed.md" %}
+Media 可用于观看 Youtube 上的官方视频。在 Hack Portal 时随机出现。
 
 ## 基本参数
 
@@ -16,15 +15,13 @@ Media 可用于观看 Youtube 上的官方视频。
 
 ## 功能
 
-打开 Media 可以观看特定的一期官方视频。视频中一般包含一些加密的信息可用来解密 Passcode。
-{% include "templates/modification_needed.md" %}
+打开 Media 可以观看特定的一期官方视频。视频中一般包含一些加密的信息可用来解密 Passcode。参见 [发现和使用 Passcode](../../guide/build_portals_and_inventory/discover_and_use_passcodes.html) 一节。
 
 ## 缺点
 
- * 一般真的没用。
- {% include "templates/modification_needed.md" %}
+ * 真的没用。
 
 ## 习惯用法
 
- * Recycle 掉
- {% include "templates/modification_needed.md" %}
+ * Recycle
+ * Drop
