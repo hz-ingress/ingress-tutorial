@@ -18,6 +18,10 @@ https://www.gitbook.com/book/hz-ingress/ingress-tutorial/dashboard
 ```shell
 $ npm install gitbook-cli -g
 ```
+ * gitbook-plugin-fancybox
+```shell
+$ npm install --save gitbook-plugin-fancybox
+```
 
 然后 clone 本书
 ```shell

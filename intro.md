@@ -1,7 +1,5 @@
 # Ingress 指南
 
-{% include "templates/not_finished_yet.md" %}
-
 ## 作者
 
 {% for author in book.authors %}
