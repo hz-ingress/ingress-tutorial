@@ -4,7 +4,7 @@
 
 用于增加 Portal 反击频率的道具。
 
-[![Turret](images/turret.png)](images/turret_large.png)
+![Turret](images/turret.png)
 
 ## 基本参数
 

@@ -4,7 +4,7 @@
 
 用于增加 Portal 反击伤害的道具。
 
-[![Force Amp](images/force_amp.png)](images/force_amp_large.png)
+![Force Amp](images/force_amp.png)
 
 ## 基本参数
 

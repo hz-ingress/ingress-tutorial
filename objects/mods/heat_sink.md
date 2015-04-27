@@ -4,9 +4,9 @@
 
 用于缩短两次 Hack 时间间隔且重置冷却的道具。
 
-[![Multi-hack](images/heat_sink_common.png)](images/heat_sink_common_large.png)
-[![Multi-hack](images/heat_sink_rare.png)](images/heat_sink_rare_large.png)
-[![Multi-hack](images/heat_sink_very_rare.png)](images/heat_sink_very_rare_large.png)
+![Heat Sink Common](images/heat_sink_common.png)
+![Heat Sink Rare](images/heat_sink_rare.png)
+![Heat Sink Very Rare](images/heat_sink_very_rare.png)
 
 ## 基本参数
 

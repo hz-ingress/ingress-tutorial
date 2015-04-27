@@ -4,9 +4,9 @@
 
 用于增加 Hack 次数上限的道具。
 
-[![Multi-hack](images/multi-hack_common.png)](images/multi-hack_common_large.png)
-[![Multi-hack](images/multi-hack_rare.png)](images/multi-hack_rare_large.png)
-[![Multi-hack](images/multi-hack_very_rare.png)](images/multi-hack_very_rare_large.png)
+![Multi-hack Common](images/multi-hack_common.png)
+![Multi-hack Rare](images/multi-hack_rare.png)
+![Multi-hack Very Rare](images/multi-hack_very_rare.png)
 
 ## 基本参数
 
