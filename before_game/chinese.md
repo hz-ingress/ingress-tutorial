@@ -13,7 +13,7 @@
  * 访问 Inventory 时显示 No items
  * 访问个人信息和 Mission 等时显示 Transmission interrupted
  * Hack 或者 Deploy 等操作无法完成
- * COMM 不刷新或不显示任何信息
+ * COMM 不刷新，不显示任何信息或消息发出后不在消息记录中显示
 
 ![iOS 设备卡在启动画面的截图](images/splash-screen.png) ![Android 设备卡在加载界面的截图](images/loading.png)
 
@@ -106,18 +106,18 @@ iOS 由于系统限制，Shadowsocks 并不能在非越狱的设备上稳定工�
  * 游戏内地图显示的道路不可信
  * 所有 Portal 位置也存在相应偏移，即 Portal 按实际地理位置（而非地图上的位置）为准
  * Intel 地图上显示的地图不可信，卫星图可信
- * 申请新 Portal 调整位置时，Android 上务必以卫星图为准，iOS 上不可信，如有条件请站在 Portal 实际位置并调整 Portal 位置到地图上标识当前位置的蓝点处
+ * 申请新 Portal 调整位置时，Android 上务必以卫星图为准，iOS 上不一定可信，如有条件请站在 Portal 实际位置并调整 Portal 位置到地图上标识当前位置的蓝点处
  * 如果安装了 [Google Maps SDK Drifting Fix for China (应用内嵌谷歌地图纠偏)](http://repo.xposed.info/module/com.oasisfeng.google.maps.rectify) 插件，在申请新 Portal 时请务必停用或改用 [修改后](https://docs.google.com/file/d/0BxNnvIFWQpP2aWdCTkdqUXdnekk/edit) 的插件
 
 ## Google Play Service （仅 Android）
 
-[Google Play Service](https://play.google.com/store/apps/details?id=com.google.android.gms) 作为 Ingress 在 Android 上依赖的必备框架，在部分国行设备上未能预装，需要通过刷机的方式或通过各类 Google 服务安装器装入。
+[Google Play Service](https://play.google.com/store/apps/details?id=com.google.android.gms) 作为 Ingress 在 Android 上的依赖项，在国行设备上没有预装，需要通过刷机或通过各类 Google 服务安装器装入（可能需要 root，可能导致保修失效，后果自负）。
 
 如果你不能判断你的设备是否有 Google Play Service，可安装任一 Google 官方应用，如 Google Maps 判断，如果应用不能正常运行，通常即为未安装或版本过老。
 
 ## 定位服务（仅 Android）
 
-出于反作弊等原因考虑，Android 平台的 Ingress 只接受使用 Google 自己的服务进行 AP 定位。部分国内厂商的 Rom 及国际厂商的国行可能使用了百度的定位服务，极可能导致封号。
+出于反作弊等原因考虑，Android 平台的 Ingress 只接受使用 Google 自己的服务进行辅助定位。部分国内厂商或国行设备的 ROM 可能使用百度的定位服务，极可能导致封号。
 
 **如果发现游戏出现如下提示，请务必停止游戏并检查你的定位服务。**
 
