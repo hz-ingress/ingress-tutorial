@@ -9,10 +9,11 @@
 翻墙不够稳定或者网速极慢时可能出现以下情况：
 
  * 进入游戏时卡在启动画面或加载界面（如图），显示无法建立安全连接，或显示该帐号不可用（此基本为 iOS 特有）
- * 在 Scanner 界面显示 Scan Failed，或无法加载正确的地图
+ * 在 Scanner 界面显示 Scan failed，或无法加载正确的地图
  * 访问 Inventory 时显示 No items
  * 访问个人信息和 Mission 等时显示 Transmission interrupted
  * Hack 或者 Deploy 等操作无法完成
+ * COMM 不刷新或不显示任何信息
 
 ![iOS 设备卡在启动画面的截图](images/splash-screen.png) ![Android 设备卡在加载界面的截图](images/loading.png)
 
@@ -28,7 +29,7 @@ Android 设备翻墙通常比较简单，可选择的服务也比较多。
 
 目前较为稳定和使用较为广泛的是 [Shadowsocks](http://shadowsocks.org/)，该项目能稳定工作在多个平台，Android 上工作也非常稳定快速，同时，在 Android 5.0 及以上的设备上，其可以不需要 root 权限便工作在支持分应用代理的 VPN 模式下，Android 5.0 以下的设备也可以以中国路由的模式工作在 VPN 模式下。
 
-Shadowsocks 项目本身仅提供协议和服务器 / 客户端实现，本身并未提供任何可以实现翻墙的服务器，此部分可以通过购买各类翻墙服务商提供的付费服务器或者自己租用 vps 搭建服务器端实现。该部分不在本教程该范围内，请自行搜索或者咨询当地其它玩家。
+Shadowsocks 项目本身仅提供协议和服务器 / 客户端实现，本身并未提供任何可以实现翻墙的服务器，此部分可以通过购买各类翻墙服务商提供的付费服务器或者自己租用 VPS 搭建服务器端实现。该部分不在本教程该范围内，请自行搜索或者咨询当地其它玩家。
 
 Shadowsocks 在 Android 上的客户端有两种：
 
@@ -48,7 +49,7 @@ Shadowsocks 在 Android 上的客户端有两种：
 
 [ShadowVPN](https://shadowvpn.org/) 是一种轻量级的 VPN，你可以从 [Google Play](https://play.google.com/store/apps/details?id=clowwindy.shadowvpn) 下载，或者从 [项目主页](https://github.com/clowwindy/ShadowVPNAndroid) 下载源代码自行编译。需要 Android 4.0.3 及以上，大小约 500K。
 
-ShadowVPN 项目本身仅提供协议和服务器 / 客户端实现，本身并未提供任何可以实现翻墙的服务器，此部分可以通过购买各类翻墙服务商提供的付费服务器或者自己租用 vps 搭建服务器端实现。该部分不在本教程该范围内，请自行搜索或者咨询当地其它玩家。
+ShadowVPN 项目本身仅提供协议和服务器 / 客户端实现，本身并未提供任何可以实现翻墙的服务器，此部分可以通过购买各类翻墙服务商提供的付费服务器或者自己租用 VPS 搭建服务器端实现。该部分不在本教程该范围内，请自行搜索或者咨询当地其它玩家。
 
 **这个项目目前处于 Beta 阶段，请不要在需要高稳定性的场合使用。**
 
@@ -58,7 +59,7 @@ ShadowVPN 项目本身仅提供协议和服务器 / 客户端实现，本身并�
 
 ### iOS
 
-iOS 由于系统限制，Shadowsocks 并不能在非越狱的设备上稳定工作，因此，各类 VPN 是非越狱 iOS 设备的唯一选择。付费购买或者自己搭建也是存在的两种选择，由于 VPN 种类较多，下面简单介绍下几个常见的 VPN 类别。
+iOS 由于系统限制，Shadowsocks 并不能在非越狱的设备上稳定工作，因此，VPN 几乎是非越狱 iOS 设备的唯一选择，你可以选择自行搭建或者购买商业服务。
 
 #### 通过已翻墙的 Android 设备或者 Mobile Wi-Fi 设备上网
 
@@ -74,17 +75,17 @@ iOS 由于系统限制，Shadowsocks 并不能在非越狱的设备上稳定工�
 
 #### OpenVPN
 
-仅有的两个能在 iOS 上使用的第三方 VPN，客户端可在 [App Store](https://itunes.apple.com/us/app/openvpn-connect/id590379981?mt=8) 下载，支持持续连接，支持路由表设定，但其已引起墙的注意，部分网络下可能受到干扰。
+仅有的两个能在 iOS 上使用的第三方 VPN 之一，客户端可在 [App Store](https://itunes.apple.com/us/app/openvpn-connect/id590379981?mt=8) 下载，支持持续连接，支持路由表设定，但其已引起墙的注意，部分网络下可能受到干扰。
 
 #### AnyConnect
 
-仅有的两个能在 iOS 上使用的第三方 VPN，客户端可在 [App Store](https://itunes.apple.com/us/app/cisco-anyconnect/id392790924?mt=8) 下载，支持持续连接，支持下发一定数量的路由表，是目前 iOS 上最稳定的 VPN 协议，但仍有部分网络受干扰的报告。
+仅有的两个能在 iOS 上使用的第三方 VPN 之一，客户端可在 [App Store](https://itunes.apple.com/us/app/cisco-anyconnect/id392790924?mt=8) 下载，支持持续连接，支持下发一定数量的路由表，是目前 iOS 上最稳定的 VPN 协议，但仍有部分网络受干扰的报告。
 
-某些情况下 AnyConnect 完成身份验证以后会被阻断，表现为 VPN 显示开启状态但是全局无法访问网络。查看流量可见 Bytes Received 几乎为 0。这种情况的原因未知，一说为所在区域基站配置错误导致 UDP 包无法被正确转发。可以尝试更换运营商，更换网络模式（2G/3G/4G）或离开该基站覆盖范围再尝试连接。
+某些情况下 AnyConnect 完成身份验证以后会被阻断，表现为 VPN 显示开启状态但是全局无法访问网络。查看流量可见 Bytes Received 几乎为 0。这种情况的原因未知，一说为所在区域基站配置错误导致 UDP 包无法被正确转发。可以尝试更换运营商，更换网络模式（2G/3G/4G，可以尝试在身份验证阶段和完成身份验证后使用不同的网络模式）或离开该基站覆盖范围再尝试连接。
 
 ![AnyConnect 被阻断示例图 1](images/anyconnect-interrupted-1.png) ![AnyConnect 被阻断示例图 2](images/anyconnect-interrupted-2.png)
 
-** 除 AnyConnect 外，其它协议建议准备备用翻墙方式，以避免关键时刻进不了游戏的尴尬 **
+**除 AnyConnect 外，其它协议建议准备备用翻墙方式，以避免关键时刻进不了游戏的尴尬。**
 
 #### 全局 HTTP 代理 / APN / 转换为 HTTP 代理服务器的 Shadowsocks
 
