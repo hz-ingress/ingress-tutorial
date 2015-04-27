@@ -7,7 +7,7 @@
 1. 在某个 Portal 处于操作范围内时点击它。
 2. 点击 DEPLOY Resonator 按钮。
 3. 选择你想使用的 Resonator 等级，然后点击 DEPLOY。
-注意：你只能选择使用小于等于你当前访问权限的 Resonator，例如你现在为 L2，你只能使用 L1 和 L2 Resonator。
+注意：你只能选择使用小于等于你当前等级的 Resonator，例如你现在为 L2，你只能使用 L1 和 L2 Resonator。
 
 越高等级的 Resonator（从 L1 到 L8）能使 Portal 的能量越强。更高等级的 Portal 被 Hack 时会产生更高等级的道具（Resonator，XMP 和 Shield 等）。更高等级的 Portal 还能连接到更远的 Portal。
 

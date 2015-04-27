@@ -15,7 +15,7 @@
     * [Glyph Hack](guide/build_portals_and_inventory/glyph_hacking.md)
     * [占领 Portal](guide/build_portals_and_inventory/capture_a_portal.md)
     * [升级 Portal](guide/build_portals_and_inventory/upgrade_a_portal.md)
-    * 发现和使用 Passcode
+    * [发现和使用 Passcode](guide/build_portals_and_inventory/discover_and_use_passcodes.md)
     * 胶囊
   * 维护和防御
   * 提交 Portal
