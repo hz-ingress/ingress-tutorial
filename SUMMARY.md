@@ -18,7 +18,7 @@
   * OPS 菜单
     * Inventory
     * Agent
-      * Badges（牌）
+      * Badge
       * 数据
     * Intel
     * Missions
@@ -29,6 +29,15 @@
     * Device
   * COMM
   * Ingress Intel Map
+  * 其他
+    * 举报玩家
+    * 举报 Portal 或任务
+    * 申请 Portal
+    * 验证手机号
+    * 提交反馈
+    * 申请修改 Codename 或阵营
+    * 删除帐号
+    *
 * 术语翻译
 * [道具](objects/index.md)
   * [Capsule](objects/capsule/index.md)
@@ -47,5 +56,7 @@
     * Ultra Strike
     * ADA Refactor/Jarvis Virus
 * Passcode 解密
-* 线下活动：XM Anomaly
+* 线下活动
+  * XM Anomaly
+  * Ingress First Saturday
 * [周边](accessories/index.md)
