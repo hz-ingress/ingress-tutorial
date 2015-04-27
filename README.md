@@ -14,11 +14,11 @@ https://www.gitbook.com/book/hz-ingress/ingress-tutorial/dashboard
 
 依赖项：
  * [node.js](https://nodejs.org/)
- * gitbook-cli
+ * [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
 ```shell
 $ npm install gitbook-cli -g
 ```
- * gitbook-plugin-fancybox
+ * [gitbook-plugin-fancybox](http://plugins.gitbook.com/plugin/fancybox)
 ```shell
 $ npm install --save gitbook-plugin-fancybox
 ```
@@ -30,10 +30,11 @@ $ git clone https://github.com/hz-ingress/ingress-tutorial.git
 
 接下来你可以选择其中一种方法来查看本书的内容：
 
- * 构建静态 HTML
+ * 构建静态 HTML 页面
 ```shell
 $ gitbook build
 ```
+页面将会存放在 \_book 目录中
 
  * 直接在浏览器中观看
 ```shell
