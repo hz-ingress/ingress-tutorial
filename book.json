@@ -2,13 +2,23 @@
     "gitbook": ">=2.0.0",
     "title": "Ingress 指南",
     "description": "",
-    "language": "zh-CN",
+    "language": "zh-cn",
     "structure": {
         "readme": "intro.md"
     },
+    "styles": {
+        "website": "_assets/website.css"
+    },
     "plugins": [
-      "yahei"
+      "fancybox"
       ],
+    "pluginsConfig": {
+        "fancybox": {
+            "helpers": {
+                "buttons": {}
+            }
+        }
+    },
     "variables": {
         "authors": [
             {
