@@ -7,7 +7,7 @@
         "readme": "intro.md"
     },
     "plugins": [
-      "unicodecss"
+      "yahei"
       ],
     "variables": {
         "authors": [
