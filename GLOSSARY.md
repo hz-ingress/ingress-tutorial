@@ -4,6 +4,9 @@
 # Deploy
 把 Resonator 放置在 Portal 上的操作
 
+# Glyph Hack
+连位符入侵，俗称画图，通过记忆并重新绘制数个图形来增加 Hack 获得奖励道具的可能性的操作
+
 # Hack
 入侵，从 Portal 获得道具的操作
 

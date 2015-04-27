@@ -4,7 +4,8 @@
     "description": "",
     "language": "zh-cn",
     "structure": {
-        "readme": "intro.md"
+        "readme": "intro.md",
+        "glossary": ""
     },
     "styles": {
         "website": "_assets/website.css"
