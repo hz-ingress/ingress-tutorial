@@ -10,6 +10,6 @@
 }
 */
 
-img.not(.fancybox-image) {
+img:not(.fancybox-image) {
     max-width: 300px !important;
 }
