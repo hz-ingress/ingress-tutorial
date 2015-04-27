@@ -85,8 +85,6 @@ iOS 由于系统限制，Shadowsocks 并不能在非越狱的设备上稳定工�
 
 ![AnyConnect 被阻断示例图 1](images/anyconnect-interrupted-1.png) ![AnyConnect 被阻断示例图 2](images/anyconnect-interrupted-2.png)
 
-**除 AnyConnect 外，其它协议建议准备备用翻墙方式，以避免关键时刻进不了游戏的尴尬。**
-
 #### 全局 HTTP 代理 / APN / 转换为 HTTP 代理服务器的 Shadowsocks
 
 由于 Ingress 用户认证过程可能不能被 HTTP 代理，使用这种方式时需要用任一 VPN 进入游戏，此后一段时间内可断开 VPN。如果游戏中出现任何操作都失败的情况，请 Kill Ingress（在最近使用的应用程序界面滑动删除），连接 VPN，重新进行用户认证即可断开 VPN。
@@ -98,6 +96,8 @@ iOS 由于系统限制，Shadowsocks 并不能在非越狱的设备上稳定工�
  * 针对所有网络的全局 HTTP 代理（需要将 iOS 设备设为 Supervised Device 并且写入配置文件，不建议普通用户操作）
  * 修改 [shadowsocks-ios](https://github.com/shadowsocks/shadowsocks-iOS) 的源代码并重新编译使其能够作为本地 HTTP 代理后台运行（需要 iOS 开发者账户，不建议普通用户操作）
  * 越狱用户可以使用 [MobileShadowsocks](https://github.com/linusyang/MobileShadowSocks) ，可在 Cydia 官方源内搜索 Shadowsocks 安装
+
+ **除 AnyConnect 外，其它协议建议准备备用翻墙方式，以避免关键时刻进不了游戏的尴尬。**
 
 ## 地图偏移
 
