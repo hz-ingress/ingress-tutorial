@@ -6,9 +6,17 @@
 
 ## 翻墙
 
-由于 Ingress 服务器架设于 Google App Engine，翻墙是进入游戏的必备条件。如果进入游戏时卡在启动画面，卡在转圈界面（如图），或显示无法建立安全连接，又或是显示该帐号不可用（此基本为 iOS 特有），通常都是翻墙不够稳定的情况。
+由于 Ingress 服务器架设于 Google App Engine，翻墙是进入游戏的必备条件。
 
-![Loading Screenshot](images/loading.png)
+翻墙不够稳定或者网速极慢时可能出现以下情况：
+
+ * 进入游戏时卡在启动画面或加载界面（如图），显示无法建立安全连接，或显示该帐号不可用（此基本为 iOS 特有）
+ * 在 Scanner 界面显示 Scan Failed，或无法加载正确的地图
+ * 访问 Inventory 时显示 No items
+ * 访问个人信息和 Mission 等时显示 Transmission interrupted
+ * Hack 或者 Deploy 等操作无法完成
+
+![iOS 设备卡在启动画面的截图](images/splash-screen.png) ![Android 设备卡在加载界面的截图](images/loading.png)
 
 **出于长期稳定游戏的考虑，通常不建议依赖于单一的公共免费翻墙通道。**
 
@@ -114,6 +122,6 @@ iOS 由于系统限制，Shadowsocks 并不能在非越狱的设备上稳定工�
 
 **如果发现游戏出现如下提示，请务必停止游戏并检查你的定位服务。**
 
-![Incorrect Location Service](images/incorrect_location_service.png)
+![定位服务问题示例图](images/incorrect_location_service.png)
 
 （感谢 Fatiao 提供图片）
