@@ -11,7 +11,7 @@
   * [基础训练](guide/basic_training.md)
   * Portal 和 Inventory
     * [寻找 Portal](guide/build_portals_and_inventory/finding_portals.md)
-    * 通过 Hack 获得物品
+    * [Hack：获得道具的方式](guide/build_portals_and_inventory/acquire_items_via_hacking.md)
     * Glyph（连位符）
     * 占领 Portal
     * 升级 Portal
@@ -31,7 +31,7 @@
     * 申请修改 Codename 或阵营
     * 删除帐号
 * [游戏界面](interface/index.md)
-  * [主界面/地图](interface/main_ui.md)
+  * [Scanner 界面](interface/scanner_interface.md)
   * [Portal 详情](interface/portal.md)
     * Hack
     * Deploy Resonator
