@@ -62,7 +62,7 @@
     * [Multi-hack](objects/mods/multi-hack.md)
     * [Force Amp](objects/mods/force_amp.md)
     * [Turret](objects/mods/turret.md)
-  * Portal Key
+  * [Portal Key](objects/portal_key/index.md)
   * [Resonator](objects/resonator/index.md)
   * Weapon
     * XMP Burster
