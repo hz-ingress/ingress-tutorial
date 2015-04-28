@@ -37,6 +37,18 @@ Link Amp 通过 Hack 只能获得 Rare 等级的，Very Rare 级别需要通过 
  * Recycle 掉
  * 作为垃圾 Mod 随手往 Portal 上插，刷 Engineer 成就
 
-## 安装消耗
+## XM 当量
 
-根据掉率不同，使用分别消耗 800 和 1000 XM。
+### Install
+
+| 掉率 | XM |
+|-|-|
+| Rare | -800 XM |
+| Very Rare | -1000 XM |
+
+### Recycle
+
+| 掉率 | XM |
+|-|-|
+| Rare | +80 XM |
+| Very Rare | +100 XM |

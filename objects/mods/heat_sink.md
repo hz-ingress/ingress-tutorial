@@ -34,7 +34,21 @@ Heat Sink 能缩短两次 Hack 之间的时间间隔，其有 Common, Rare, Very
  * 在自己经常可以 Hack 的 Portal 上安装
  * 在外做 Field 时，迫切需要某个 Portal 的 Key
 
-## 安装消耗
+## XM 当量
 
-根据掉率不同，使用分别消耗 400, 800 和 1000 XM。
+### Install
+
+| 掉率 | XM |
+|-|-|
+| Common | -400 XM |
+| Rare | -800 XM |
+| Very Rare | -1000 XM |
+
+### Recycle
+
+| 掉率 | XM |
+|-|-|
+| Common | +40 XM |
+| Rare | +80 XM |
+| Very Rare | +100 XM |
 
