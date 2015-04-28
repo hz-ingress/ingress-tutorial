@@ -67,19 +67,23 @@ iOS 由于系统限制，Shadowsocks 并不能在非越狱的设备上稳定工�
 
 #### PPTP
 
-比较古老的 VPN 协议，易受干扰且很挑网络环境，不建议作为主要翻墙方式。
+iOS 原生支持的 VPN 协议之一。比较古老的 VPN 协议，易受干扰且很挑网络环境，不建议作为主要翻墙方式。
 
-#### L2TP/IPSec
+少数 VPN 应用使用这类方案。
 
-能在多数网络环境下正常工作，但仍有被干扰的可能，可通过描述文件实现自动连接和简单的路由配置。
+#### L2TP/IPSec 和 Cisco IPSec
+
+iOS 原生支持的 VPN 协议之一。能在多数网络环境下正常工作，但仍有被干扰的可能，可通过描述文件实现自动连接和简单的路由配置。易掉线，且由于 Ingress 强制全屏，掉线不易被发现。
+
+目前大多数 VPN 应用使用这类方案。
 
 #### OpenVPN
 
-仅有的两个能在 iOS 上使用的第三方 VPN 之一，客户端可在 [App Store](https://itunes.apple.com/us/app/openvpn-connect/id590379981?mt=8) 下载，支持持续连接，支持路由表设定，但其已引起墙的注意，部分网络下可能受到干扰。
+仅有的两个能在 iOS 上使用的第三方 VPN 协议之一，客户端可在 [App Store](https://itunes.apple.com/us/app/openvpn-connect/id590379981?mt=8) 下载，支持持续连接，支持路由表设定，但其已引起墙的注意，部分网络下可能受到干扰。
 
 #### AnyConnect
 
-仅有的两个能在 iOS 上使用的第三方 VPN 之一，客户端可在 [App Store](https://itunes.apple.com/us/app/cisco-anyconnect/id392790924?mt=8) 下载，支持持续连接，支持下发一定数量的路由表，是目前 iOS 上最稳定的 VPN 协议，但仍有部分网络受干扰的报告。
+仅有的两个能在 iOS 上使用的第三方 VPN 协议之一，客户端可在 [App Store](https://itunes.apple.com/us/app/cisco-anyconnect/id392790924?mt=8) 下载，支持持续连接，支持下发一定数量的路由表，是目前 iOS 上最稳定的 VPN 协议，但仍有部分网络受干扰的报告。
 
 某些情况下 AnyConnect 完成身份验证以后会被阻断，表现为 VPN 显示开启状态但是全局无法访问网络。查看流量可见 Bytes Received 几乎为 0（如下图）。这种情况的原因未知，一说为所在区域移动网络基站配置错误导致 UDP 包无法被正确转发。可以尝试更换运营商，更换网络模式（2G/3G/4G，可以[尝试在身份验证阶段和完成身份验证后使用不同的网络模式](https://www.v2ex.com/t/176263#reply10)）或离开该基站覆盖范围再尝试连接。
 
@@ -97,7 +101,7 @@ iOS 由于系统限制，Shadowsocks 并不能在非越狱的设备上稳定工�
  * 修改 [shadowsocks-ios](https://github.com/shadowsocks/shadowsocks-iOS) 的源代码并重新编译使其能够作为本地 HTTP 代理后台运行（需要 iOS 开发者账户，不建议普通用户操作）
  * 越狱用户可以使用 [MobileShadowsocks](https://github.com/linusyang/MobileShadowSocks) ，可在 Cydia 官方源内搜索 Shadowsocks 安装
 
- **除 AnyConnect 外，其它协议建议准备备用翻墙方式，以避免关键时刻进不了游戏的尴尬。**
+ **除 AnyConnect 外，其它协议建议准备不同类型的备用翻墙方式，以避免关键时刻进不了游戏的尴尬。**
 
 ## 地图偏移
 
