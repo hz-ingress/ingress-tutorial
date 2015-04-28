@@ -73,5 +73,6 @@
   * XM Anomaly
   * Ingress FS
   * NL-1331
+* [FAQ](faq/index.md)
 * [周边](accessories/index.md)
 * [术语表](GLOSSARY.md)
