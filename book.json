@@ -21,7 +21,7 @@
             }
         },
         "addcssjs": {
-            "js": ["_assets/paranoid-auto-spacing/src/pangu.js", "_assets/website.js"],
+            "js": ["_assets/website.js"],
             "css": []
         }
     },
