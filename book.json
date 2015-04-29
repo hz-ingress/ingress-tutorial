@@ -11,13 +11,18 @@
         "website": "_assets/website.css"
     },
     "plugins": [
-      "fancybox"
+      "fancybox",
+      "addcssjs"
       ],
     "pluginsConfig": {
         "fancybox": {
             "helpers": {
                 "buttons": {}
             }
+        },
+        "addcssjs": {
+            "js": ["_assets/paranoid-auto-spacing/src/pangu.js", "_assets/website.js"],
+            "css": []
         }
     },
     "variables": {
