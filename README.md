@@ -22,6 +22,10 @@ $ npm install gitbook-cli -g
 ```shell
 $ npm install --save gitbook-plugin-fancybox
 ```
+ * [gitbook-plugin-addcssjs](http://plugins.gitbook.com/plugin/addcssjs)
+ ```shell
+ $ npm install --save gitbook-plugin-addcssjs
+ ```
 
 然后 clone 本书
 ```shell
