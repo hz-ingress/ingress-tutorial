@@ -7,7 +7,6 @@
 ![Portal Shield Common](images/portal_shield_common.png)
 ![Portal Shield Rare](images/portal_shield_rare.png)
 ![Portal Shield Very Rare](images/portal_shield_very_rare.png)
-
 ![AXA Shield](images/axa_shield.png)
 
 ## 基本参数
@@ -29,7 +28,7 @@ Portal Shield 和 AXA Shield 能提高 Portal 防御敌方 XMP 攻击的能力�
 
 ## 衰减
 
-Shiled 道具无衰减。
+Shield 道具无衰减。
 
 ## 习惯用法
 
