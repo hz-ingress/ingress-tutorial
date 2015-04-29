@@ -11,7 +11,9 @@
 ## 寻找 Passcode
 
 使用 Investigation Board 来了解 Ingress 的最新剧情并寻求对 Niantic Project, NIA, XM, Shapers 以及各阵营不同问题的答案。
-隐藏在这些报告之中的 Passcode 能给你道具（Resonator，XMP 等），XM 或者 AP。
+可以使用隐藏在这些报告之中的 Passcode 来兑换道具（Resonator，XMP 等），XM 或者 AP。
+
+另外，一些官方活动会向到场者赠送包含 Passcode 的卡片，特定的官方周边也会赠送此类卡片。卡片上的 Passcode 一般能够兑换活动徽章。
 
 ## 兑换 Passcode
 
