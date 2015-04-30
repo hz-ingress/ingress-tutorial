@@ -25,4 +25,4 @@
  * 约 50M 可用空间
  * 未越狱，或安装 [Xgress 插件](https://github.com/Qusic/Xgress)（未经测试，后果自负，需要添加源 [cydia.qusic.me](http://cydia.qusic.me/)）
 
-注：在 Wi-Fi 版 iPad 和 iPod Touch 上，定位可能非常不准确（取决于所在区域），因此不建议使用这些设备。推荐使用 iPhone 和 Wi-Fi + Cellular 版本 iPad。
+注：在 Wi-Fi 版 iPad 和 iPod Touch 上，定位可能非常不准确（取决于所在区域），因此不建议使用这些设备。推荐使用 iPhone 或 Wi-Fi + Cellular 版本 iPad。
