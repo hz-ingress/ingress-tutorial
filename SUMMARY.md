@@ -63,6 +63,7 @@
     * [Force Amp](objects/mods/force_amp.md)
     * [Turret](objects/mods/turret.md)
   * [Portal Key](objects/portal_key/index.md)
+  * [Power Cube](objects/power_cube/index.md)
   * [Resonator](objects/resonator/index.md)
   * [Weapon](objects/weapon/index.md)
     * [XMP Burster](objects/weapon/xmp.md)
