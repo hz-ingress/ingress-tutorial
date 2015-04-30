@@ -66,7 +66,7 @@
   * [Resonator](objects/resonator/index.md)
   * [Weapon](objects/weapon/index.md)
     * [XMP Burster](objects/weapon/xmp.md)
-    * Ultra Strike
+    * [Ultra Strike](objects/weapon/ultra_strike.md)
     * ADA Refactor/Jarvis Virus
 * Passcode 解密
 * 线下活动
