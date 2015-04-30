@@ -64,8 +64,8 @@
     * [Turret](objects/mods/turret.md)
   * [Portal Key](objects/portal_key/index.md)
   * [Resonator](objects/resonator/index.md)
-  * Weapon
-    * XMP Burster
+  * [Weapon](objects/weapon/index.md)
+    * [XMP Burster](objects/weapon/xmp.md)
     * Ultra Strike
     * ADA Refactor/Jarvis Virus
 * Passcode 解密
