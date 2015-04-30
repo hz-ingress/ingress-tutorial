@@ -4,6 +4,8 @@
 
 小范围的武器类道具。
 
+![Ultra Strike](images/ultra_strike.png)
+
 ## 基本参数
 
 | 属性 | 值 |

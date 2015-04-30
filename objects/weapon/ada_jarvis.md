@@ -4,6 +4,9 @@
 
 直接转换 Portal 阵营的武器类道具。
 
+![ADA Refactor](images/ada_refactor.png)
+![Jarvis Virus](images/jarvis_virus.png)
+
 | 属性 | 值 |
 |-|-|
 | 掉率 | Very Rare |
