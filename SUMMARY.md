@@ -67,7 +67,7 @@
   * [Weapon](objects/weapon/index.md)
     * [XMP Burster](objects/weapon/xmp.md)
     * [Ultra Strike](objects/weapon/ultra_strike.md)
-    * ADA Refactor/Jarvis Virus
+    * [ADA Refactor/Jarvis Virus](objects/weapon/ada_jarvis.md)
 * Passcode 解密
 * 线下活动
   * XM Anomaly
