@@ -24,6 +24,8 @@ ADA Refactor 将转换 Portal 至 Resistance，Jarvis Virus 将转换 Portal 至
 
 如果转换为已方阵营，则 Portal Owner 及所有 Resonator， Mod 所有者均为自己，若转换为敌方阵营，则根据阵营不同，显示为对应的阵营领袖 ID (\_\_ADA\_\_ / \_\_JARVIS\_\_)。
 
+*注意：使用 ADA Refactor / Jarvis Virus 摧毁的任何 Resonator、Link 和 Field 不获得任何 AP。*
+
 ## 使用限制
 
 * 消耗 XM 小于 XM 上限
