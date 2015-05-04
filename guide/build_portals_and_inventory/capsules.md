@@ -2,6 +2,23 @@
 
 Capsule 是一种掉率 Rare 的容器，能够盛放多个道具，并扔在地上以在 Agent 之间大量交换物品。Capsule 能无限次存入或取出道具，其本身性质不会改变。
 
+## 快速指南
+
+{% include "templates/link_translation_needed.md" %}
+
+当一个 Capsule 在你的道具仓库里时，Capsule 里的道具数量会被计入你 Scanner 的总数量。你不能捡起会导致你道具总数超过库存上限的 Capsule。此外，Capsule 本身也会占用一个库存数量。
+当你将一个 Capsule 扔到地上时，它会在一定时间后消失，因此最好和预期的收货人在相同的时间和地点完成交换，以确保 Capsule 被顺利捡取。
+当一个道具在 Capsule 里时，它将不能被使用。如 Capsule 里的 XMP 不能 Fire，Portal Keys 不能用于 Link 和远程 Recharge。
+当你 Recycle 一个 Capsule 时，你将获得Capsule 及其内部所有道具 Recycle 获得的 XM 的总和。
+Capsule 可以被循环使用，你可以反复 Load 和 UnLoad 道具无数次。
+
+如何使用 Capsule：
+
+打开你的 Scanner，点击 OPS > INVENTORY，选择 Capsule。在这里，你可以 LOAD，UNLOAD, DROP， 或者 RECYCLE Capsule。
+
+
+------------------------
+
 Quick tips
 
 When a Capsule is in your Inventory, the number of items in the Capsule is counted against the your max capacity of Scanner inventory items. You won’t be able to pick up a Capsule if its contents will cause you to exceed your inventory limit. Also, the Capsule itself counts as one inventory item.
