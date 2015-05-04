@@ -1,7 +1,5 @@
 # Multi-hack
 
-{% include "templates/not_finished_yet.md" %}
-
 用于增加 Hack 次数上限的道具。
 
 ![Multi-hack Common](images/multi-hack_common.png)

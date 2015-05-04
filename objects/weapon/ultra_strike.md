@@ -1,7 +1,5 @@
 # Ultra Strike
 
-{% include "templates/not_finished_yet.md" %}
-
 小范围的武器类道具。
 
 ![Ultra Strike](images/ultra_strike.png)

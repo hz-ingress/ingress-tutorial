@@ -1,7 +1,5 @@
 # Portal Key
 
-{% include "templates/not_finished_yet.md" %}
-
 用于 Link 和 远程 Recharge 的重要道具。
 
 ![Portal Key](images/portal_key.png)

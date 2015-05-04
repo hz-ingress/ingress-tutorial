@@ -1,7 +1,5 @@
 # Link Amp
 
-{% include "templates/not_finished_yet.md" %}
-
 用于增加 Portal Link 距离上限的道具。
 
 ## 基本参数

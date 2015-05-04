@@ -1,7 +1,5 @@
 # Power Cube
 
-{% include "templates/not_finished_yet.md" %}
-
 Power Cube 是快速补充 XM 的道具。
 
 ![Power Cube](images/power_cube.png)

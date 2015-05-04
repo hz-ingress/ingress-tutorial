@@ -1,7 +1,5 @@
 # Force Amp
 
-{% include "templates/not_finished_yet.md" %}
-
 用于增加 Portal 反击伤害的道具。
 
 ![Force Amp](images/force_amp.png)

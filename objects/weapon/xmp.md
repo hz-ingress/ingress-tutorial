@@ -1,7 +1,5 @@
 # XMP Burster
 
-{% include "templates/not_finished_yet.md" %}
-
 游戏中最主要的武器类道具，也是最容易获得的武器类道具。
 
 ![XMP Burster](images/xmp.png)

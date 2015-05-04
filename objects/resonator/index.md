@@ -15,8 +15,6 @@
 
 ## 功能
 
-{% include "templates/not_finished_yet.md" %}
-
 Resonator 作为构筑 Portal 的基础道具，在游戏的进程中发挥着重要作用。在中立 Portal 上部署第 1 个 Resonator 即占领此 Portal，所有 Resonator 被摧毁 Portal 即回归中立。
 
 Resonator 共有 L1 - L8 8 个等级。每个 Portal 的等级都由其 8 个 Resonator 决定，比较简单的算法是 8 个 Resonator 等级之和除 8，即为 Portal 的等级。

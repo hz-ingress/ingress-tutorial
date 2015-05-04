@@ -1,7 +1,5 @@
 # ADA Refactor/Jarvis Virus
 
-{% include "templates/not_finished_yet.md" %}
-
 直接转换 Portal 阵营的武器类道具。
 
 ![ADA Refactor](images/ada_refactor.png)

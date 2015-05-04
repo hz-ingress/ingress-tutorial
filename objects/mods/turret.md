@@ -1,7 +1,5 @@
 # Turret
 
-{% include "templates/not_finished_yet.md" %}
-
 用于增加 Portal 反击频率的道具。
 
 ![Turret](images/turret.png)

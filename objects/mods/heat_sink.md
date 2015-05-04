@@ -1,7 +1,5 @@
 # Heat Sink
 
-{% include "templates/not_finished_yet.md" %}
-
 用于缩短两次 Hack 时间间隔且重置冷却的道具。
 
 ![Heat Sink Common](images/heat_sink_common.png)

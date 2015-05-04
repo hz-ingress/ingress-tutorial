@@ -1,7 +1,5 @@
 # Portal Shield / AXA Shield
 
-{% include "templates/not_finished_yet.md" %}
-
 用于增加 Portal 防御的道具。
 
 ![Portal Shield Common](images/portal_shield_common.png)
