@@ -16,6 +16,15 @@ Capsule 可以被循环使用，你可以反复 Load 和 UnLoad 道具无数次�
 
 打开你的 Scanner，点击 OPS > INVENTORY，选择 Capsule。在这里，你可以 LOAD，UNLOAD, DROP， 或者 RECYCLE Capsule。
 
+触摸 LOAD 按钮以从你的库存里存放道具到 Capsule，下方会出现一个你库存里所有道具的列表，其中有加号和减号以选择放入到 Capsule 的道具的数量。
+
+当你使用加号增加放入 Capsule 的道具数量的时候，列表的滚动会被锁定，TRANSFER 和 RESET 按钮会被启用。长按加减号可以快速增减数量，TRANSFER 按钮以确认存放道具到 Capsule，RESET 按钮以取消这次存放且重置道具数量为 0。
+
+当你准备好将 Capsule 及其内道具交给其他 Agent 时，触摸 DROP 以将其丢弃到你当前位置。
+
+在你的 Scanner 上触摸地图上的 Capsule，点击 ACQUIRE 以捡起 Capsule。
+
+要将道具从 Capsule 里取出，从 Capsule 菜单里触摸 UNLOAD，然后按照和放入类似的过程取出道具。
 
 ------------------------
 
