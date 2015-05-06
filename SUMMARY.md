@@ -9,7 +9,7 @@
    * [中国大陆玩家特别说明](before_game/chinese.md)
 * [教程](guide/index.md)
   * [基础训练](guide/basic_training/index.md)
-    * 基本概述
+    * [基本概述](guide/basic_training/initial_briefing.md)
     * Ingress Agent 战场指南
     * Scanner 概述
     * 术语表
