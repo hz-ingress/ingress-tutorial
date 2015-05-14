@@ -36,7 +36,9 @@
     * 申请 Portal
     * 验证手机号
     * 提交反馈
-    * 申请修改 Codename 或阵营
+    * 申请修改 Codename 或更改阵营
+      * 修改 Codename
+      * [更改阵营](guide/misc/change_faction.md)
     * 删除帐号
 * [游戏界面](interface/index.md)
   * [Scanner 界面](interface/scanner_interface.md)
