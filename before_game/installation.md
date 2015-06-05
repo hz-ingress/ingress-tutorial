@@ -23,6 +23,10 @@
 
  * iOS 7.0 及更高版本
  * 约 50M 可用空间
- * 未越狱，或安装 [Xgress 插件](https://github.com/Qusic/Xgress)（未经测试，后果自负，需要添加源 [cydia.qusic.me](http://cydia.qusic.me/)）
+ * 未越狱 [1]
 
 注：在 Wi-Fi 版 iPad 和 iPod Touch 上，定位可能非常不准确（取决于所在区域），因此不建议使用这些设备。推荐使用 iPhone 或 Wi-Fi + Cellular 版本 iPad。
+
+------------------
+
+[1] 越狱用户可以尝试安装 tsProtector 或 [Xgress](https://github.com/Qusic/Xgress)（似乎已经停止维护。需要添加源 [cydia.qusic.me](http://cydia.qusic.me/)） 。未经测试，使用后果自负。
