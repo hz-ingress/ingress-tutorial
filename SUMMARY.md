@@ -40,6 +40,7 @@
       * 修改 Codename
       * [更改阵营](guide/misc/change_faction.md)
     * 删除帐号
+    * [封号和半封号状态](guide/misc/account_locked_or_observer.md)
 * [游戏界面](interface/index.md)
   * [Scanner 界面](interface/scanner_interface.md)
   * [Portal 详情](interface/portal.md)
