@@ -17,11 +17,11 @@
  * 无法查看 Inventory
  * 无法查看 COMM
   
-如果你确信你是被误封，请[联系 NIA](https://support.google.com/ingress/answer/4400939#contact=1)。
+如果你确信你是被误封，请 [联系 NIA](https://support.google.com/ingress/answer/4400939#contact=1)。
   
 ## 半封号
 
-半封号又称观察者模式（Observer），玩家可以正常访问游戏但是部分操作被禁用或者出现异常。在 [Google+: #observer](https://plus.google.com/explore/observers) 有很多玩家描述了自己遇到的这一情况。
+半封号又称观察者模式（Observer），玩家可以正常访问游戏但是部分操作被禁用或者出现异常。在 [Google+ #observers](https://plus.google.com/explore/observers) 有很多玩家描述了自己遇到的这一情况。
 
 已知正常的操作包括但不限于：
 
@@ -46,7 +46,7 @@
  * L7 和 L8 的 XMP 一定会造成仅 1% 的伤害，不论距离被攻击实体多近
  * 普通 Hack 不出道具或者强制进入 Glyph Hack；Glyph Hack 不出道具或者只出一个 Bonus 道具，无论正确与否；如果尝试跳过 Glyph，会提示 “Portal Lockdown Glyph Hack Required”
 
-NIA 目前认为半封号状态是一个 Bug。有些人能通过特定的操作退出半封号状态，有些人不能。如果半封号状态持续较长时间并且下述方法均无效，请[联系 NIA](https://support.google.com/ingress/answer/4400939#contact=1)。
+NIA 目前认为半封号状态是一个 Bug。有些人能通过特定的操作退出半封号状态，有些人不能。如果半封号状态持续较长时间并且下述方法均无效，请 [联系 NIA](https://support.google.com/ingress/answer/4400939#contact=1)。
 
 已知可能退出半封号状态的操作有：
 
