@@ -26,8 +26,7 @@
       }
   }
 
-  // fix space between CJK & Latin characters automatically
-
+  /** fix space between CJK & Latin characters automatically */
   var fix_space = function() {
       if (typeof pangu == "undefined") {
           setTimeout(fix_space, 300);
@@ -47,3 +46,6 @@
           fix_space();
       }
   }, 100);
+  
+  /** make html lang attribute Chinese */
+  document.getElementsByTagName('html')[0].lang='zh-CN';
