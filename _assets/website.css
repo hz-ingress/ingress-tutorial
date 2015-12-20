@@ -13,3 +13,21 @@
 img:not(.fancybox-image) {
     max-height: 300px !important;
 }
+
+/* These blocks should look like blockquote. Let's just expand it. */
+/* serious warning blocks */
+blockquote .bq-serious {
+    color: #333; /* overwrite back to the main text color */
+    border-left: 4px solid #d00;
+}
+
+/* warning blocks */
+blockquote .bq-warning {
+    color: #333; /* overwrite back to the main text color */
+    border-left: 4px solid #d70;
+}
+
+/* todo blocks */
+blockquote .bq-todo {
+    border-left: 4px solid #0d0;
+}
