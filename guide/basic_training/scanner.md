@@ -1,6 +1,7 @@
 #Scanner 概述
 
 下面介绍一下Scanner的主界面，它看起来应该是这样的。
+
 ![Scanner](images/scanner.jpg)
 
 1. AP进度槽

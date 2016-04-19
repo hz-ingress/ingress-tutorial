@@ -13,7 +13,7 @@
     * Ingress Agent 战场指南
     * [Scanner 概述](guide/basic_training/scanner.md)
     * [术语表](guide/basic_training/glossary.md)
-    * 阵营选择
+    * [阵营选择](guide/basic_training/faction.md)
     * Ingress Agnet 快速指南
     * Agent 准则
     * EndGame 相关
