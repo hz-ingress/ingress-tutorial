@@ -15,7 +15,7 @@
     * [术语表](guide/basic_training/glossary.md)
     * [阵营选择](guide/basic_training/faction.md)
     * Ingress Agnet 快速指南
-    * Agent 准则
+    * [Agent 准则](guide/basic_training/agent protocol.md)
     * EndGame 相关
   * [Portal 和 Inventory](guide/build_portals_and_inventory/index.md)
     * [寻找 Portal](guide/build_portals_and_inventory/finding_portals.md)
