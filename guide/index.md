@@ -1,3 +1,3 @@
 # 新手引导
 
-{% include "templates/not_finished_yet.md" %}
+{% include "../templates/not_finished_yet.md" %}

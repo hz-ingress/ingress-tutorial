@@ -41,7 +41,10 @@
             },
             {
                 "name": "@CNzhejiang"
-            }
+            },
+	    {
+		"name": "@lxfy"
+	    }
         ],
         "references": [
             {
@@ -59,7 +62,11 @@
             {
                 "name": "DeCode Ingress",
                 "url": "http://decodeingress.me/"
-            }
+            },
+	    {
+		"name": "Ingress Wiki - Wikia",
+		"url": "http://ingress.wikia.com/wiki/Main_Page"
+	    }
         ]
     }
 }

@@ -1,6 +1,6 @@
 # Portal 详情
 
-{% include "templates/picture_needed.md" %}
+{% include "../templates/picture_needed.md" %}
 
 Portal 详情页用于查看 Portal 的状态。
 
