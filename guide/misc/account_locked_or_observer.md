@@ -1,6 +1,6 @@
 # 封号和半封号状态
 
-{% include "templates/contain_unofficial_instructions.md" %}
+{% include "../../templates/contain_unofficial_instructions.md" %}
 
 以下行为可能导致进入封号或者半封号状态：
 
@@ -15,7 +15,6 @@
  * 手机上登录游戏后只能看到地图，看不到任何 Portal 信息
  * 任何人（包括自己）无法查看 Profile，提示 Scanner 过热
  * 无法查看 Inventory
- * 手机端无法查看 COMM
   
 如果你确信你是被误封，请 [联系 NIA](https://support.google.com/ingress/answer/4400939#contact=1)。
   
@@ -26,27 +25,30 @@
 已知正常的操作包括但不限于：
 
  * 升级 Resonator
- * Intel Map
+ * 查看Intel Map
  * 兑换 Passcode
  * Recycle 道具
- * COMM 查看和发送消息
+ * COMM 发送消息
  * Hack 次数和 Hacker 成就统计正常
  * Glyph 得分和 Translator 成就统计正常
  * 行走距离和 Trekker 成就统计正常
- * 获得 AP 和消耗 XM 的量正常
+ * 获得 AP 和消耗 XM 的量正常（也有可能存在无法正常获得AP的情况）
  * Power Cube 可以使用
+ * 招募特工（但当新特工成功激活游戏后无法获得3000AP奖励）
 
 已知不正常或者无法完成的操作包括但不限于：
 
  * 无法安装 Mod
+ * 无法接收COMM信息
+ * 无法查看或接收任务
  * 无法 Drop 道具（会提示成功但是不生效）
  * 无法 Capture 一个中立的 Portal，无法在空 Resonator 槽中放置 Resonator
- * Link（有些玩家会看到 “Neutral Original Portal” 或者 “No Linkable Portals” 的提示，有些玩家可以正常 Link）
+ * Link（有些玩家会看到 `Neutral Original Portal` 或者 `No Linkable Portals` 的提示，有些玩家可以正常 Link）
  * Recharge（有些玩家可以在范围内 Recharge，有些玩家完全无法 Recharge）
  * L7 和 L8 的 XMP 一定会造成仅 1% 的伤害，不论距离被攻击实体多近
- * 普通 Hack 不出道具或者强制进入 Glyph Hack；Glyph Hack 不出道具或者只出一个 Bonus 道具，无论正确与否；如果尝试跳过 Glyph，会提示 “Portal Lockdown Glyph Hack Required”
+ * 普通 Hack 不出道具或者强制进入 Glyph Hack；Glyph Hack 不出道具或者只出一个 Bonus 道具，无论正确与否；如果尝试跳过 Glyph，会提示 `Portal Lockdown Glyph Hack Required`
 
-NIA 目前认为半封号状态是一个 Bug。有些人能通过特定的操作退出半封号状态，有些人不能。如果半封号状态持续较长时间并且下述方法均无效，请 [联系 NIA](https://support.google.com/ingress/answer/4400939#contact=1)。
+NIA 目前认为半封号状态是一个 Bug。有些人能通过特定的操作退出半封号状态，有些人不能。如果半封号状态持续较长时间并且下述方法均无效，请 [联系 NIA](https://support.google.com/ingress/answer/4400939#contact=1)获取人工帮助。
 
 已知可能退出半封号状态的操作有：
 

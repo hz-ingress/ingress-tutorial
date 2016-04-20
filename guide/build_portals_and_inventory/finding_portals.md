@@ -1,6 +1,6 @@
 # 寻找 Portal
 
-{% include "templates/link_translation_needed.md" %}
+{% include "../../templates/link_translation_needed.md" %}
 
 如果视野内一个 Portal 都没有，寻找 Portal 将成为首要任务。
 

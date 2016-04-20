@@ -1,6 +1,6 @@
 # FAQ
 
-{% include "templates/not_finished_yet.md" %}
+{% include "../templates/not_finished_yet.md" %}
 
 本章收录了新玩家常见的问题，由聊天记录整理而成。
 
@@ -10,7 +10,7 @@
 
 ##### 扔在地上的道具多久以后会消失？
 
-12 小时后会消失。
+12 小时后会消失。（大型活动前NIA可能修改道具的消失时限，建议交换道具应当场完成。）
 
 ##### 不小心把 key 扔到了 portal 上，捡不到了！
 
