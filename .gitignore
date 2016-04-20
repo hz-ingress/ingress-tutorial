@@ -11,6 +11,7 @@ node_modules
 # Book build output
 _book
 *.md~
+*.json~
 
 # eBook build output
 *.epub
