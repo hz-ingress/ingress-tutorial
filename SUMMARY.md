@@ -14,8 +14,8 @@
     * [Scanner 概述](guide/basic_training/scanner.md)
     * [术语表](guide/basic_training/glossary.md)
     * [阵营选择](guide/basic_training/faction.md)
-    * Ingress Agnet 快速指南
-    * [Agent 准则](guide/basic_training/agent protocol.md)
+    * [Ingress Agnet 快速指南](guide/basic_training/agent_guide.md)
+    * [Agent 准则](guide/basic_training/agent_protocol.md)
     * EndGame 相关
   * [Portal 和 Inventory](guide/build_portals_and_inventory/index.md)
     * [寻找 Portal](guide/build_portals_and_inventory/finding_portals.md)
@@ -23,17 +23,19 @@
     * [Glyph Hack](guide/build_portals_and_inventory/glyph_hacking.md)
     * [占领 Portal](guide/build_portals_and_inventory/capture_a_portal.md)
     * [升级 Portal](guide/build_portals_and_inventory/upgrade_a_portal.md)
+    * [新增 portal](guide/build_portals_and_inventory/add_a_portal.md)
     * [发现和使用 Passcode](guide/build_portals_and_inventory/discover_and_use_passcodes.md)
     * [Capsule](guide/build_portals_and_inventory/capsules.md)
-  * 维护和防御
-  * 提交 Portal
+  * [进攻和防御](guide/attack_and_defend/index.md)
+    * [部署护盾与摧毁护盾](guide/attack_and_defend/deploy_shield.md)
+    * 部署Force AMP 和 Turret进行进攻
+    * 通过充能进行防御
   * 成就系统
   * 任务
   * 与他人合作
   * 其他问题
     * 举报玩家
     * 举报 Portal 或任务
-    * 申请 Portal
     * 验证手机号
     * 提交反馈
     * 申请修改 Codename 或更改阵营
