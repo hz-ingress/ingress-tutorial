@@ -41,7 +41,7 @@
  * 无法安装 Mod
  * 无法接收COMM信息
  * 无法查看或接收任务
- * 无法 Drop 道具（会提示成功但是不生效）
+ * 无法拾取及丢弃道具（会提示成功但是不生效）
  * 无法 Capture 一个中立的 Portal，无法在空 Resonator 槽中放置 Resonator
  * Link（有些玩家会看到 `Neutral Original Portal` 或者 `No Linkable Portals` 的提示，有些玩家可以正常 Link）
  * Recharge（有些玩家可以在范围内 Recharge，有些玩家完全无法 Recharge）
