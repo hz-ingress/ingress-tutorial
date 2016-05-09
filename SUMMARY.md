@@ -88,8 +88,8 @@
     * Key Locker
     * Beacon
 * Passcode 解密
-* 线下活动
-  * XM Anomaly
+* [线下活动](events/index.md)
+  * XM Anomaly(events/FirstSaturday.md)
   * Ingress FS
   * NL-1331
 * [FAQ](faq/index.md)
