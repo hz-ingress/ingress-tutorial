@@ -59,8 +59,10 @@ ShadowVPN 项目本身仅提供协议和服务器 / 客户端实现，本身并�
 
 ### iOS
 
-iOS 由于系统限制，Shadowsocks 并不能在非越狱的设备上稳定工作，因此，VPN 几乎是非越狱 iOS 设备的唯一选择，你可以选择自行搭建或者购买商业服务。
-
+（iOS 由于系统限制，Shadowsocks 并不能在非越狱的设备上稳定工作，因此，VPN 几乎是非越狱 iOS 设备的唯一选择，你可以选择自行搭建或者购买商业服务。）
+####现在可以用 Surge 链接 Shadowsocks 翻墙实现Ingress游戏正常运行。
+####规则中添加DOMAIN-KEYWORD,google,Proxy,force-remote-dns以及DOMAIN-SUFFIX,appspot.com,Proxy,force-remote-dns。
+![Surge规则添加](images/image.jpeg)
 #### 通过已翻墙的 Android 设备或者 Mobile Wi-Fi 设备上网
 
 此方法在此不详述。
