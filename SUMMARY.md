@@ -89,8 +89,8 @@
     * Beacon
 * Passcode 解密
 * [线下活动](events/index.md)
-  * XM Anomaly(events/FirstSaturday.md)
-  * Ingress FS
+  * XM Anomaly
+  * [Ingress FS](events/FirstSaturday.md)
   * NL-1331
 * [FAQ](faq/index.md)
 * [周边](accessories/index.md)
