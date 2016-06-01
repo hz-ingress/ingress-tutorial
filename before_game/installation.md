@@ -4,6 +4,8 @@
 
 ## Android
 
+> 16年5月起，NIA更新了作弊检测算法,导致部分国产安卓设备的定位算法（例如小米手机的智能省电模式）会与之冲突，使用类似设备操作可能会被误封。如被封号请[与NIA联系](https://support.ingress.com/hc/en-us/requests/new?ticket_form_id=164508)。
+
 由于严格且不可知的反作弊机制，不建议从第三方市场下载 Ingress 客户端。你可以从 [Play Store](https://play.google.com/store/apps/details?id=com.nianticproject.ingress) 下载安装。
 
 ### 系统要求
