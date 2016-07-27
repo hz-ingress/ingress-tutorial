@@ -50,7 +50,7 @@
 一种指向 Youtube 官方战报视频的道具
 
 # Mind Unit
-心元，俗称 MU，Field 的面积单位
+心元，俗称 MU，Field 的面积单位，主要根据人口密度计算
 
 # Mod
 用于改变 Portal 属性的道具的总称
