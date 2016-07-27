@@ -72,6 +72,7 @@
   * [Mod](objects/mods/index.md)
     * [Portal Shield/AXA Shield](objects/mods/portal_shield.md)
     * [Link Amp](objects/mods/link_amp.md)
+    * [Softbank Ultra Link](objects/mods/softbank_ultra_link.md)
     * [Heat Sink](objects/mods/heat_sink.md)
     * [Multi-hack](objects/mods/multi-hack.md)
     * [Force Amp](objects/mods/force_amp.md)
