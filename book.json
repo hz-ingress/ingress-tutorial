@@ -5,7 +5,7 @@
     "language": "zh-cn",
     "structure": {
         "readme": "intro.md",
-        "glossary": ""
+        "glossary": "GLOSSARY.md"
     },
     "styles": {
         "website": "_assets/website.css"
