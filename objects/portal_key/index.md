@@ -35,4 +35,4 @@ Portal Key 获得方式主要也是通过 Hack，但与其它道具有所不同�
 
 ### Recycle
 
-+20 XM
++500 XM
